@@ -1,0 +1,15 @@
+{
+  "name": "location-converter",
+  "version": "1.0.0",
+  "description": "Convert location json to city, state format.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ariel M",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "*"
+  }
+}
